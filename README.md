@@ -26,4 +26,4 @@ StudentsPerformance.csv
 ![Gender Chart](students-performance-analyzer/charts/gender_chart.png)
 
 ### Lunch Impact Analysis
-![Lunch Analysis](students-performance-analyzer/charts/lunch_students-marks.png)
+![Lunch Analysis](students-performance-analyzer/charts/lunch_studens-marks.png)

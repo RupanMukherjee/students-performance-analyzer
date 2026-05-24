@@ -23,7 +23,7 @@ StudentsPerformance.csv
 ## 📊 Sample Visualizations
 
 ### Gender Chart
-![Gender Chart](charts/gender_chart.png)
+![Gender Chart](students-performance-analyzer/charts/gender_chart.png)
 
 ### Lunch Impact Analysis
-![Lunch Analysis](charts/lunch_students-marks.png)
+![Lunch Analysis](students-performance-analyzer/charts/lunch_students-marks.png)

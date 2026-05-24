@@ -19,3 +19,11 @@ This project analyzes student exam performance using Python, Pandas, Matplotlib,
 
 ## Dataset
 StudentsPerformance.csv
+
+## 📊 Sample Visualizations
+
+### Gender Chart
+![Gender Chart](charts/gender_chart.png)
+
+### Lunch Impact Analysis
+![Lunch Analysis](charts/lunch_students-marks.png)
